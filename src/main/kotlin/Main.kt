@@ -1,7 +1,8 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+fun main() {
+    println("das kommt von Branch 1")
+    println("und das kommt von Branch 1")
+}
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+fun br1(){
+    println("das kommt von Branch 1")
 }
