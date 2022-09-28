@@ -16,3 +16,8 @@ fun br3(){
     println("das kommt von Branch 3")
     println("und das kommt von Branch 3")
 }
+
+fun br4(){
+    println("das kommt von Branch 4")
+    println("und das kommt von Branch 4")
+}
