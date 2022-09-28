@@ -9,4 +9,5 @@ fun br1(){
 
 fun br2(){
     println("das kommt von Branch 2")
+    println("und das kommt von Branch 2")
 }
